@@ -1,0 +1,12 @@
+name: "Applied biostatistics"
+output_dir: "docs"
+navbar:
+  title: "Linear regression"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "Linear regression"
+   href: Linear-regression.html
+output:
+  html_document:
+ theme: cosmo
